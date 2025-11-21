@@ -1,0 +1,28 @@
+student_id,name,subject,score,date,attendance,rank
+25617,Jonathan Nichols,Arabic,100,2024-11-04,Absent,1.0
+26067,Katherine Gardner,Arabic,100,2025-02-11,Present,2.0
+27595,Sophia Hill MD,Arabic,100,2025-01-07,Present,3.0
+25541,Eric Watkins,Chemistry,100,2025-04-28,Present,1.0
+27028,William Carey,Chemistry,100,2025-03-11,Absent,2.0
+27796,Amy Becker,Chemistry,100,2025-01-29,Present,3.0
+26335,Derek Willis,Computer,100,2025-08-05,Present,1.0
+27773,Paul Miller,Computer,100,2025-01-12,Present,2.0
+29270,Mark Trujillo,Computer,100,2025-04-11,Present,3.0
+25060,Jessica Farmer,English,100,2025-05-21,Absent,1.0
+25515,Stacy Gordon,English,100,2024-12-14,Present,2.0
+25991,Amber Cohen,English,100,2025-02-02,Present,3.0
+26556,Leonard Stein,Geography,100,2024-10-15,Present,1.0
+26777,Barry Brennan,Geography,100,2025-01-25,Absent,2.0
+26889,Karen Crawford,Geography,100,2025-04-06,Absent,3.0
+25223,Karen Sanchez,History,100,2025-03-08,Absent,1.0
+25354,Luke Carter,History,100,2025-05-07,Absent,2.0
+26353,Rodney Schneider,History,100,2024-10-08,Present,3.0
+25804,Jennifer Jackson,Math,100,2025-02-04,Present,1.0
+26168,Jennifer Munoz,Math,100,2025-02-09,Present,2.0
+27320,Anthony Ashley,Math,100,2025-05-24,Present,3.0
+25008,David Montoya,Physics,100,2024-10-23,Present,1.0
+25518,Heather Horn DVM,Physics,100,2025-01-15,Present,2.0
+26235,Robert Ingram,Physics,100,2025-05-12,Absent,3.0
+25013,Jason Hines,Science,100,2025-02-16,Present,1.0
+25063,Holly Bennett,Science,100,2024-10-09,Present,2.0
+25530,Todd Smith,Science,100,2025-07-10,Present,3.0
